@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import  messagebox
 from tkinter import PhotoImage
 import numpy as np
+import sympy as sp
 from roboticstoolbox import DHRobot, RevoluteDH
 import matplotlib
 matplotlib.use('TkAgg')
